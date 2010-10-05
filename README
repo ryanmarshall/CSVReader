@@ -1,2 +1,34 @@
 to run:
 # php run.php
+
+output:
+array(4) {
+  ["UserID"]=>
+  string(1) "1"
+  ["Username"]=>
+  string(3) "bob"
+  ["FirstName"]=>
+  string(3) "Bob"
+  ["LastName"]=>
+  string(6) "Bobson"
+}
+array(4) {
+  ["UserID"]=>
+  string(1) "2"
+  ["Username"]=>
+  string(4) "john"
+  ["FirstName"]=>
+  string(4) "John"
+  ["LastName"]=>
+  string(7) "Johnson"
+}
+array(4) {
+  ["UserID"]=>
+  string(1) "3"
+  ["Username"]=>
+  string(3) "joe"
+  ["FirstName"]=>
+  string(3) "Joe"
+  ["LastName"]=>
+  string(6) "Joeson"
+}
